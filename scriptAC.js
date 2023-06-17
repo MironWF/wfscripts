@@ -28,6 +28,7 @@ window.fsAttributes.push([
       data: {
         src: uniqueCategoriesArray
       },
+      name: 'auto-complete',
       threshold: 1,
       debounce: 300,
       searchEngine: "strict",
